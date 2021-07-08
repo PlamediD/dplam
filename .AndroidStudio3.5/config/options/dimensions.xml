@@ -1,0 +1,6 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.3840.2160@288dpi" x="2361" y="1014" />
+    <location key="GitCloneDialog.0.0.3840.2160@288dpi" x="1557" y="777" />
+  </component>
+</application>
